@@ -1,3 +1,4 @@
+# virtual mouse execution
 import cv2
 import mediapipe as mp
 import pyautogui
@@ -64,3 +65,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
